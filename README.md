@@ -27,4 +27,5 @@ The main classes used in this program are:
 * Wall.java
   * Creates the Wall object that blocks bullets coming from either direction and changes the sprite image depending on how much health it has remaining. 
   
-  
+## Expanding on the Project
+While this project is open publically to be built upon, please create a new branch in order to change the contents of the original project. This can be done by clicking the button labeled "master" at the top of the main page and typing in a unique name for the branch. 
